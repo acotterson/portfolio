@@ -1,0 +1,10 @@
+It's not particularly great yet. It's not much, but There are a lot of scrap-files. research hours, and edits/learning experiences going 
+into it. Those things will also make future development faster. We were researching, testing, and working with a bunch of different methods
+and approaches as well as in the process of getting more image data to work with (our dataset is very small at the moment) when COVID came
+around and started messing things up. I have a few notes of things I'd like to do after getting more data, including looking
+into other pre-trained models to work with besides resnet50, looking into buiding a model from scratch once we have enough data to
+have better results, looking at different ways to train the model on top of a pre-trained one, different methods of expanding the data
+we do have with pre-processing, playing around with other optimizers and activation functions, etc. Lot's to do, but takes a while to
+test things. So I'll probably look seriously into having a program just run a ton of variations automatically at this point as well.
+A member of our team was focused on data collection and another one was looking into using a different backend. I'll probably start looking
+into collecting data myself and then reach out to the other guy to see how far the other backend got to compare results.
